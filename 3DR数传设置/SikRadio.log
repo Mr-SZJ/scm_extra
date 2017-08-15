@@ -1,0 +1,78 @@
+2017-06-12 15:09:24,086 DEBUG MissionPlanner.Utilities.ThemeManager - Theme set to None (:0) [1]
+2017-06-12 15:19:27,387 DEBUG MissionPlanner.Utilities.ThemeManager - Theme set to None (:0) [1]
+2017-06-12 15:19:41,467  INFO MissionPlanner.Sikradio - Connect btr 4 baud 9600 (:0) [1]
+2017-06-12 15:19:41,475  INFO MissionPlanner.Sikradio - Connect first response OK
+ 4 (:0) [1]
+2017-06-12 15:19:41,479  INFO MissionPlanner.Sikradio - Doing Command AT&T (:0) [1]
+2017-06-12 15:19:42,489  INFO MissionPlanner.Sikradio - Doing Command AT&T (:0) [1]
+2017-06-12 15:19:43,497  INFO MissionPlanner.Sikradio -  (:0) [1]
+2017-06-12 15:19:43,497  INFO MissionPlanner.Sikradio - Doing Command ATI (:0) [1]
+2017-06-12 15:19:43,524  INFO MissionPlanner.Sikradio - SiK 1.9 on HM-TRP
+ (:0) [1]
+2017-06-12 15:19:43,524  INFO MissionPlanner.Sikradio - Connect Version: SiK 1.9 on HM-TRP
+ (:0) [1]
+2017-06-12 15:19:43,537  INFO MissionPlanner.Sikradio - Doing Command AT&T (:0) [1]
+2017-06-12 15:19:44,545  INFO MissionPlanner.Sikradio - Doing Command AT&T (:0) [1]
+2017-06-12 15:19:45,553  INFO MissionPlanner.Sikradio -  (:0) [1]
+2017-06-12 15:19:45,554  INFO MissionPlanner.Sikradio - Doing Command ATI (:0) [1]
+2017-06-12 15:19:45,581  INFO MissionPlanner.Sikradio - SiK 1.9 on HM-TRP
+ (:0) [1]
+2017-06-12 15:19:45,582  INFO MissionPlanner.Sikradio - Doing Command ATI3 (:0) [1]
+2017-06-12 15:19:45,594  INFO MissionPlanner.Sikradio - 67
+ (:0) [1]
+2017-06-12 15:19:45,635  INFO MissionPlanner.Sikradio - Doing Command ATI2 (:0) [1]
+2017-06-12 15:19:45,647  INFO MissionPlanner.Sikradio - 78
+ (:0) [1]
+2017-06-12 15:19:45,827  INFO MissionPlanner.Sikradio - Doing Command AT&E? (:0) [1]
+2017-06-12 15:19:45,844  INFO MissionPlanner.Sikradio - ERROR
+ (:0) [1]
+2017-06-12 15:19:45,854  INFO MissionPlanner.Sikradio - Doing Command ATI7 (:0) [1]
+2017-06-12 15:19:45,954  INFO MissionPlanner.Sikradio - L/R RSSI: 43/0  L/R noise: 45/0 pkts: 0  txe=0 rxe=0 stx=0 srx=0 ecc=0/0 temp=34 dco=0
+ (:0) [1]
+2017-06-12 15:19:45,955  INFO MissionPlanner.Sikradio - Doing Command ATI5 (:0) [1]
+2017-06-12 15:19:47,239  INFO MissionPlanner.Sikradio - S0:FORMAT=25
+S1:SERIAL_SPEED=9
+S2:AIR_SPEED=64
+S3:NETID=25
+S4:TXPOWER=20
+S5:ECC=1
+S6:MAVLINK=0
+S7:OPPRESEND=1
+S8:MIN_FREQ=433050
+S9:MAX_FREQ=434790
+S10:NUM_CHANNELS=10
+S11:DUTY_CYCLE=100
+S12:LBT_RSSI=0
+S13:MANCHESTER=0
+S14:RTSCTS=0
+S15:MAX_WINDOW=131
+ (:0) [1]
+2017-06-12 15:19:47,277  INFO MissionPlanner.Sikradio - Doing Command RTI (:0) [1]
+2017-06-12 15:19:48,285  INFO MissionPlanner.Sikradio - Doing Command RTI (:0) [1]
+2017-06-12 15:19:49,292  INFO MissionPlanner.Sikradio -  (:0) [1]
+2017-06-12 15:19:49,293  INFO MissionPlanner.Sikradio - Doing Command RTI2 (:0) [1]
+2017-06-12 15:19:50,301  INFO MissionPlanner.Sikradio - Doing Command RTI2 (:0) [1]
+2017-06-12 15:19:51,309  INFO MissionPlanner.Sikradio -  (:0) [1]
+2017-06-12 15:19:51,309  INFO MissionPlanner.Sikradio - Doing Command RT&E? (:0) [1]
+2017-06-12 15:19:52,318  INFO MissionPlanner.Sikradio - Doing Command RT&E? (:0) [1]
+2017-06-12 15:19:53,327  INFO MissionPlanner.Sikradio -  (:0) [1]
+2017-06-12 15:19:53,327  INFO MissionPlanner.Sikradio - Doing Command RTI5 (:0) [1]
+2017-06-12 15:19:54,349  INFO MissionPlanner.Sikradio -  (:0) [1]
+2017-06-12 15:19:54,350  INFO MissionPlanner.Sikradio - Odd config line : (:0) [1]
+2017-06-12 15:19:54,351  INFO MissionPlanner.Sikradio - Doing Command ATO (:0) [1]
+2017-06-12 15:19:55,358  INFO MissionPlanner.Sikradio - Doing Command ATO (:0) [1]
+2017-06-12 15:19:56,358  INFO MissionPlanner.Comms.SerialPort - Closing port COM7 (:0) [1]
+2017-06-12 15:20:27,345  INFO MissionPlanner.Sikradio - Connect btr 0 baud 9600 (:0) [1]
+2017-06-12 15:20:27,346  INFO MissionPlanner.Sikradio - doConnect retry (:0) [1]
+2017-06-12 15:20:30,747  INFO MissionPlanner.Sikradio - Connect btr 0 baud 9600 (:0) [1]
+2017-06-12 15:20:30,748  INFO MissionPlanner.Sikradio - doConnect retry (:0) [1]
+2017-06-12 15:20:34,149  INFO MissionPlanner.Sikradio - Connect btr 0 baud 9600 (:0) [1]
+2017-06-12 15:20:34,150  INFO MissionPlanner.Sikradio - doConnect retry (:0) [1]
+2017-06-12 15:20:37,552  INFO MissionPlanner.Sikradio - Connect btr 0 baud 9600 (:0) [1]
+2017-06-12 15:20:41,563  INFO MissionPlanner.Sikradio - Doing Command ATO (:0) [1]
+2017-06-12 15:20:42,565  INFO MissionPlanner.Sikradio - Doing Command ATO (:0) [1]
+2017-06-12 15:20:44,712  INFO MissionPlanner.Comms.SerialPort - Closing port COM7 (:0) [1]
+2017-06-12 15:20:54,480  INFO MissionPlanner.Sikradio - Connect btr 0 baud 9600 (:0) [1]
+2017-06-12 15:20:54,481  INFO MissionPlanner.Sikradio - doConnect retry (:0) [1]
+2017-06-12 15:20:57,882  INFO MissionPlanner.Sikradio - Connect btr 0 baud 9600 (:0) [1]
+2017-06-12 15:20:57,883  INFO MissionPlanner.Sikradio - doConnect retry (:0) [1]
